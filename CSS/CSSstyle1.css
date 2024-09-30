@@ -1,0 +1,36 @@
+#css1, #css2, #css3 {
+    width: 40%;
+    float: left;
+    Padding: 0 1%;
+}footer {
+    text-align: right;
+    font-size: 1.0em;
+    color: #00cc66;
+    padding: 1% 0;
+    border-top: 3px solid #00cc99;
+}body {
+    padding: 2%;
+    background-color: #ccffcc; 
+} main {
+    padding: 2%;
+    font-family: arial, 'Times New Roman', Cambria;
+} header h1 {
+    text-align: center;
+    font-size: 3em;
+    font-family: 'brush script MT', arial, 'Times New Roman';
+    padding: 3%;
+    color: #00cc66;
+} nav {
+    background-color: #ccffcc;
+} nav ul {margin: 0;} nav li {
+    display: block; 
+    font-size: 1.5em; font-family: 'brush script MT', arial, 'times new roman'; font-weight: bold;
+} nav li a {display: block; color:#ccffcc; padding: 0.5em 2em; }
+
+main p {
+    font-size: 1.25em;
+} 
+main h3 {
+    padding-top: 2%;
+    font-size: 2em;
+}
